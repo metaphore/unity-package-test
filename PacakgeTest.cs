@@ -6,4 +6,9 @@ public static class PackageTest
     {
         Debug.Log("Hello from PackageTest package.");
     }
+
+    public static Aboba() 
+    {
+        Debug.Log("Aboba");
+    }
 }
